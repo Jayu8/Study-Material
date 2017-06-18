@@ -1,5 +1,5 @@
 Code
-[CTCI_Algorithms_DS](https://github.com/careercup/CtCI-6th-Edition)<br>
+![CTCI_Algorithms_DS](https://github.com/careercup/CtCI-6th-Edition)<br>
 ![Udemy](https://www.udemy.com/from-0-to-1-data-structures/learn/v4/content)<br>
 
 ![HackerRank](https://www.youtube.com/watch?v=GKgAVjJxh9w&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&index=1)
