@@ -10,7 +10,7 @@ function open(x) {<br>
   return x*y + 3;<br>
 }<br>
 
-*y is called a free variable.*<br>
+*y is called a free variable as it not defined in this function. But can be defined in a bigger function enclosing this or it can be global *<br>
 
 *Functions containing no free variables are called pure functions.*<br>
 *Functions containing one or more free variables are called closures.*<br>
