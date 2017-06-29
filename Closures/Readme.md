@@ -1,3 +1,6 @@
+**A closure is a persistent local variable scope<br>
+A closure is a persistent scope which holds on to local variables(stack) even after the code execution has moved out of that block<br>**
+
 *Closed expression*<br>
 
 function closed(x) {<br>
